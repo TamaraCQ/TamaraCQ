@@ -1,3 +1,4 @@
+<img width="1804" height="872" alt="image" src="https://github.com/user-attachments/assets/1d17c805-0902-451c-95dc-f1348a82d325" />
 # 👋 About Me
 
 I'm **Tamara Alison Coveñas Quispe**, a Systems Engineering student passionate about software development and technology.
